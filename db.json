@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "terserah",
+      "image": "",
+      "price": 100000,
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "name": "apapun",
+      "image": "",
+      "price": 50000,
+      "categoryId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Bodo amat",
+      "image": "",
+      "price": 13000,
+      "categoryId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Gak jelas",
+      "image": "",
+      "price": 55000,
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Anime"
+    },
+    {
+      "id": "2",
+      "name": "Manga Doujin"
+    },
+    {
+      "name": "Manga",
+      "id": "3pkmVV6"
+    }
+  ]
+}
